@@ -7,5 +7,5 @@ configuration: Release
 platform: x64
 clone_folder: c:\projects\udfhack
 build:
-  project: windows/x64/lib_mysqludf_sys/lib_mysqludf_sys.sln
+  project: windows/64/lib_mysqludf_sys/lib_mysqludf_sys.sln
   verbosity: normal
